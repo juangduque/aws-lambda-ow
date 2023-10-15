@@ -1,0 +1,16 @@
+{
+  "name": "thumbnail-generator-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "install-package": "npm install --platform=linux --arch=x64 sharp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
